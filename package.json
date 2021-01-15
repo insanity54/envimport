@@ -1,0 +1,20 @@
+{
+  "name": "@grimtech/envimport",
+  "version": "0.0.1",
+  "description": "",
+  "main": "envImport.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/insanity54/envimport.git"
+  },
+  "author": "Chris Grimmett <chris@grimtech.net>",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/insanity54/envimport/issues"
+  },
+  "homepage": "https://github.com/insanity54/envimport#readme",
+  "private": false
+}
